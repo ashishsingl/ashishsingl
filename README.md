@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishsingl
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on react js developers
+- 💞️ I’m looking to collaborate with react js developers
 - 📫 How to reach me ...
 
 <!---
